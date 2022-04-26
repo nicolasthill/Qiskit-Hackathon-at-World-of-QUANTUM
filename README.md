@@ -2,44 +2,52 @@
 
 ## 📄  [Click here to download the In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/raw/main/Attendee%20Guide%20In-Person.pdf)
 
-### About
+### Lecture Plan
 
-The Qiskit Hackathon@World of QUANTUM is the first Qiskit event happening in person in Germany hosted by the Federal Ministry of Education and Research (BMBF), IBM Quantum's Community Team and Messe München GmbH.
+**Introduction & Motivation**
 
-The hackathon will kickoff with an opening presentation and guideline review.
+Motivating the use of QAOA algorithm for optimization problems. Brief introduction to quantum computing. 
 
-Participants will then form teams of 4-5 people and work on a challenge for the next 24 hours.
+Duration: 5 minutes 
+Form of Teaching: Presentation via powerpoint by teacher 
+Resource Used: Introduction_to_QAOA_Qiskit.pptx (Slides XX – XX)
 
-Mentors will be available to support and help the teams during the hackathon.
+**Theory**
+•	Introduces Optimization goal, cost function, the Hamiltonian …. (!!!)
+•	MaxCut Problem
 
-After the 24 hours, a committee of experts will evaluate the outcome and select the winners.
+Duration: 10 minutes
+Form of Teaching:
+Resource Used
+
+Implementation from Scratch
+Implementing QAOA from scratch and discussing limitations of this method. This motivates the use the qiskits QAOA implementation.
+
+Duration: 10 minutes 
+Form of Teaching:
+Resource used: 
+
+QAOA using Qiskit
+
+Duration: 20 minutes
+Form of Teaching: Presentation via Juyter notebook follow-along (Section XX - XX)
+Resource used: QAOA_lecture1.ipynb
+
+QAOA in Practice
+Future outlook and homework description 
+Duration: 3-5 minutes 
+
+Homework exercise: XXXX.ipynb !!
+Solutions to exercise: XXXX_ans.ipynb
+
+Additional Resources Provided to students
+
+Extra reading material for students provided in the final section of Introduction_to_QAOA_Qiskit.pptx
+![image](https://user-images.githubusercontent.com/52402417/165392873-4184d07d-873e-43db-8bfe-d8eb345b5e06.png)
 
 
-### Timeline
 
-#### Tuesday 26 April
-11:55 – 12:15 - Welcome note at the Forum World of QUANTUM
 
-12:15 - 14:30 - Guidelines, lunch, and team formation in the Hackathon Space
-
-14:30 - Start of the Hacking Phase in the Hackathon Space
-
-*Between 20:00 (26 April) and 08:00 (27 April) you may ask questions in the dedicated Qiskit Event
-Slack Channel [#hackathon-woq-support](https://qiskit.slack.com/archives/C03BJNQ0S15) for remote assistance. [[Click here to join
-Qiskit Slack](https://ibm.co/joinqiskitslack), if needed.]
-
-#### Tuesday 26 April
-14:00 - End of the Hacking Phase and start of the Judging Phase
-
-14:30 - 16:00 - Optional Project Presentation & Community Choice Award
-
-16:00 - 16:30 - Closing Ceremony at the Forum World of QUANTUM
-
-### Projects
-
-Please find full details on the Hackathon Project format, team formation, and project submission in the [In-Person Attendee Guide](https://github.com/qiskit-community/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/Attendee%20Guide%20In-Person.pdf). 
-
-Here is an [example of an Education Hackathon Project Submission](https://github.com/TigrisCallidus/Education-Hackathon-Template) for your review.
 
 ### Questions
 
