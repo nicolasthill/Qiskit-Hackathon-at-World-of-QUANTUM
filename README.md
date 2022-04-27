@@ -1,6 +1,6 @@
 # Lecture Plan
 
-TODO: Link the files to repo 
+
 
 ### **Introduction & Motivation**
 Motivating the use of QAOA algorithm for optimization problems. Brief introduction to quantum computing. 
@@ -17,7 +17,7 @@ MaxCut Problem
 
 Duration: 10 minutes
 
-Form of Teaching: Presentation via Juyter notebook follow-along (Section XX - XX)
+Form of Teaching: Presentation via Juyter notebook follow-along
 
 Resource Used: [QAOA_101_Outline.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_101_Outline.ipynb)
 
