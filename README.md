@@ -38,9 +38,9 @@ Future outlook and homework description. Goal: motivate usage of QAOA/Quantum Co
 
 Duration: 5 minutes 
 
-Homework exercise: XXXX.ipynb !!
+Homework exercise: [QAOA_Exercise.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise.ipynb)
 
-Solutions to exercise: XXXX_ans.ipynb
+Solutions to exercise: [QAOA_Exercise_Solutions.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise_Solutions.ipynb)
 
 ### **Additional Resources Provided to students**
 
