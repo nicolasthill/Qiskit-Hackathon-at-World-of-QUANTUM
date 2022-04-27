@@ -1,0 +1,54 @@
+(please use the README file to see the most recent version of the lecture outline. This file is just uploaded for completeness)
+
+
+1. Introduction & Motivation
+
+Motivating the use of QAOA algorithm for optimization problems. Brief introduction to quantum computing.
+
+Duration: 5 minutes
+
+Form of Teaching: Presentation via powerpoint by teacher
+
+Resource Used: Introduction_to_QAOA_Qiskit.pptx
+
+
+2. Theory
+
+Introduces Optimization goal, Cost function, Hamiltonian, Adiabatic theorem, QAOA algorithm, MaxCut Problem
+
+Duration: 10 minutes
+
+Form of Teaching: Presentation via Juyter notebook follow-along
+
+Resource Used: QAOA_Lecture.ipynb
+
+Background Information: This provides supplemental material on the QAOA theory with visualization and equations. QAOA_Theoretical_Background.ipynb
+
+
+3. QAOA using Qiskit
+
+Implementing QAOA from scratch using Qiskit tools.
+
+QAOA using Qiskits routine.
+
+Duration: 35 minutes
+
+Form of Teaching: Presentation via Juyter notebook follow-along
+
+Resource used: QAOA_with_Qiskit.ipynb
+
+
+4. QAOA in Practice
+
+Future outlook and homework description. Goal is to motivate usage of QAOA/Quantum Computing in other fields.
+
+Duration: 5 minutes
+
+Homework exercise: QAOA_Exercise.ipynb
+
+Solutions to exercise: QAOA_Exercise_Solutions.ipynb
+
+
+5. Additional Resources Provided to students
+
+Extra reading material for students provided in the final section of Introduction_to_QAOA_Qiskit.pptx
