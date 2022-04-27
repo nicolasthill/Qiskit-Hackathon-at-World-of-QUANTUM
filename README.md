@@ -9,7 +9,8 @@ Motivating the use of QAOA algorithm for optimization problems. Brief introducti
 
 **Form of Teaching:** Presentation via powerpoint by teacher 
 
-**Resource Used:** _Introduction_to_QAOA_Qiskit.pptx_
+**Resource Used:** [Introduction_to_QAOA_Qiskit.pdf](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/Introduction_to_QAOA_Qiskit.pdf)
+
 
 ### **Theory**
 Introduces Optimization goal, Cost function, Hamiltonian, Adiabatic theorem, QAOA algorithm, MaxCut Problem
@@ -40,10 +41,10 @@ Future outlook and homework description. Goal is to motivate usage of QAOA/Quant
 
 **Duration:** 5 minutes 
 
-**Homework exercise:** [QAOA_Exercise.ipynb](hhttps://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise.ipynb)
+**Homework exercise:** [QAOA_Exercise.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise.ipynb)
 
 **Solutions to exercise:** [QAOA_Exercise_Solutions.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise_Solutions.ipynb)
 
 ### **Additional Resources Provided to students**
 
-Extra reading material for students provided in the final section of Introduction_to_QAOA_Qiskit.pptx
+Extra reading material for students provided in the final section of [Introduction_to_QAOA_Qiskit.pdf](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/Introduction_to_QAOA_Qiskit.pdf)
