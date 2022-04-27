@@ -18,7 +18,10 @@ Introduces Optimization goal, Cost function, Hamiltonian, Adiabatic theorem, QAO
 
 **Form of Teaching:** Presentation via Juyter notebook follow-along
 
-**Resource Used:** [QAOA_101_Outline.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_101_Outline.ipynb)
+**Resource Used:** [QAOA_Lecture.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Lecture.ipynb)
+
+**Background Information:** This provides supplemental material on the QAOA theory with visualization and equations. [QAOA_Theoretical_Background.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Theoretical_Background.ipynb)
+
 
 ### **QAOA using Qiskit**
 
@@ -26,7 +29,7 @@ Introduces Optimization goal, Cost function, Hamiltonian, Adiabatic theorem, QAO
 
 2. QAOA using Qiskits routine.
 
-**Duration:** 30 minutes 
+**Duration:** 35 minutes 
 
 **Form of Teaching:** Presentation via Juyter notebook follow-along
 
@@ -37,7 +40,7 @@ Future outlook and homework description. Goal is to motivate usage of QAOA/Quant
 
 **Duration:** 5 minutes 
 
-**Homework exercise:** [QAOA_Exercise.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise.ipynb)
+**Homework exercise:** [QAOA_Exercise.ipynb](hhttps://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise.ipynb)
 
 **Solutions to exercise:** [QAOA_Exercise_Solutions.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_Exercise_Solutions.ipynb)
 
