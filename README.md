@@ -11,12 +11,12 @@ Form of Teaching: Presentation via powerpoint by teacher
 Resource Used: _Introduction_to_QAOA_Qiskit.pptx_ (Slides XX – XX)
 
 ### **Theory**
-Introduces Optimization goal, cost function, the Hamiltonian …. (!!!)
+Introduces Optimization goal, cost function, Quantum Annealing, the Hamiltonian, Adiabatic theorem, QAOA algorithm.
 MaxCut Problem
 
 Duration: 10 minutes
-Form of Teaching:
-Resource Used
+Form of Teaching: Presentation via Juyter notebook follow-along (Section XX - XX)
+Resource Used: [QAOA_101_Outline.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_101_Outline.ipynb)
 
 ### **Implementation from Scratch**
 Implementing QAOA from scratch and discussing limitations of this method. This motivates the use the qiskits QAOA implementation.
@@ -29,7 +29,9 @@ Resource used:
 
 Duration: 20 minutes
 Form of Teaching: Presentation via Juyter notebook follow-along (Section XX - XX)
-Resource used: QAOA_lecture1.ipynb
+Resource used: [QAOA_with_Qiskit.ipynb](https://github.com/nicolasthill/Qiskit-Hackathon-at-World-of-QUANTUM/blob/main/QAOA%20101/QAOA_with_Qiskit.ipynb)
+
+_QAOA_with_Qiskit.ipynb_
 
 ### **QAOA in Practice**
 Future outlook and homework description 
